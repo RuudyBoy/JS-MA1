@@ -1,5 +1,11 @@
 body {
   text-align: center;
+  background-color:#115D90 ;
+  color: white;
+}
+
+.container {
+  margin-top: 40px;
 }
 
 .list {

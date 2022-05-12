@@ -5,8 +5,8 @@ import Heading from "../Heading";
 export default function Contact() {
     return (
         <>
-        <Heading title="Contact" />;
-         <Address/>
+        <Heading title="Contact" />
+        <p>Address:<Address/></p> 
          </>
       );
   }
