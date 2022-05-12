@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+.list {
+  display:inline-block;
+}
+
+.navbar-brand {
+  margin: 10px;
+}
+
